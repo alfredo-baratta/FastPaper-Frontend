@@ -1,6 +1,6 @@
 # FastPaper
 
-FastPaper is a service similar to Telegra.ph, which allows users to quickly and efficiently write articles and publish them online.
+Discover the freedom of publishing articles with ease and efficiency! FastPaper offers you the ability to publish your articles without the need for registration. With an intuitive interface and a smooth publishing experience, your content will be online in just a few clicks. Try our project now!
 
 ## Installation
 
